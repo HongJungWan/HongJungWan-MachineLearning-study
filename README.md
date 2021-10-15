@@ -4,7 +4,8 @@ Master branch 폴더 및 파일들은 직접 실행한 파일
 
 <br><br>
 
-![cover.png](cover.png)
+![image](https://user-images.githubusercontent.com/76596316/137461830-79ab3f65-202a-47b2-96e5-0dbb33a633b9.png)
+
 
 <br><br>
 
