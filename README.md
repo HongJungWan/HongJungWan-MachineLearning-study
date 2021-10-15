@@ -1,13 +1,13 @@
-# HongJungWan-MachineLearning-study
+# HongJungWan-MachineLearning-study 🧐
 
-Master branch 폴더 및 파일들은 직접 실행해본 파일
+Master branch 폴더 및 파일들은 직접 실행한 파일
 
 <br><br>
+
 ![cover.png](cover.png)
 
 <br><br>
 
-주피터 노트북 뷰어나 코랩에서 노트북을 열려면 다음 링크를 사용.
 
 * 1-3 마켓과 머신러닝 [[nbviewer](https://nbviewer.jupyter.org/github/rickiepark/hg-mldl/blob/master/1-3.ipynb)], [[Colab](https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/1-3.ipynb)]
 * 2-1 훈련 세트와 테스트 세트 [[nbviewer](https://nbviewer.jupyter.org/github/rickiepark/hg-mldl/blob/master/2-1.ipynb)], [[Colab](https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/2-1.ipynb)]
